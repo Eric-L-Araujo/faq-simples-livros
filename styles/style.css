@@ -9,6 +9,7 @@ body {
   height: 100vh;
 }
 
+
 .cabecalho {
   display: flex;
   align-items: center;
@@ -29,6 +30,7 @@ body {
   flex-direction: column;
   flex-wrap: wrap;
   background-color: rgb(241, 241, 241);
+  box-shadow: 0px 0px 10px 1px #00000030;
 }
 
 .subtitulo {
@@ -38,7 +40,6 @@ body {
 
 hr {
   margin: 30px 0px;
-  
 }
 
 .texto {
@@ -50,11 +51,13 @@ section .texto {
   text-align: start;
 }
 
-
- ul > li , ol > li{
-margin: 25px 19px ;
-text-align: start;
+ul > li,
+ol > li {
+  margin: 25px 19px;
+  text-align: start;
+ 
 }
+
 
 .author-info {
   font-size: 14px;
