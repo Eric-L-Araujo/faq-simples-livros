@@ -65,4 +65,4 @@ Consegui utilizar o HTML5 com tags semânticas e a organizá-las de acordo com o
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
 ## Author
-- GitHub [@Eric-L-Araujo](https://{github.com/Eric-L-Araujo})
+- GitHub [@Eric-L-Araujo](https://eric-l-araujo.github.io/faq-simples-livros/)
