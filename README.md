@@ -28,7 +28,6 @@
 
 - [Overview](#overview)
 - [What I learned](#what-i-learned)
-- [Useful resources](#useful-resources)
 - [Built with](#built-with)
 - [Features](#features)
 - [Author](#author)
@@ -51,13 +50,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 Consegui utilizar o HTML5 com tags semânticas e a organizá-las de acordo com o conteúdo. Aprendi a utilizar as regras CSS aplicando estilos nos elementos HTML. Além disso,  consegui implementar responsividade no site utilizando media queries, incluindo as boas práticas do Mobile-First Approach.
 
-### Useful resources
-
-<!--
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
--->
-
 ### Built with
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
@@ -73,4 +65,4 @@ Consegui utilizar o HTML5 com tags semânticas e a organizá-las de acordo com o
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
 ## Author
-- GitHub [@your-username](https://{github.com/Eric-L-Araujo})
+- GitHub [@Eric-L-Araujo](https://{github.com/Eric-L-Araujo})
