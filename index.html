@@ -1,87 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link
-      rel="icon"
-      href="resources/favicon.ico"
-      type="image/x-icon"
-      sizes="96x96"
-    />
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles/style.css">
+  <link rel="icon" href="resources/favicon.ico" type="image/x-icon" sizes="96x96" />
+  <title>Simple FAQ | devChallenges.io</title>
+</head>
 
-    <title>Simple FAQ | devChallenges.io</title>
+<body>
 
-    <!--You are welcome to delete these styles or modify them in your own stylesheet -->
-    <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-      }
+  <header class="cabecalho">
+    <h1 class="titulo">Frequently Asked Questions</h1>
+    <p class="texto">Browse through the most frequently asked questions</p>
+  </header>
 
-      body {
-        height: 100vh;
-      }
+  <section class="container">
 
-      .author-info {
-        font-size: 14px;
-        text-align: center;
-        margin-top: 16px;
-        color: rgb(55, 65, 81);
-      }
+    <section class="question">
+      
+      <h2 class="subtitulo">How can I track my order?</h2>
+      <p class="texto">You can track your order using the following steps:</p>
+      <ol type="1">
+        <li>Go to the Order <a href="#" class="link">Tracking page</a>.</li>
+        <li>Enter your order number and email address.</li>
+        <li>Click on the Track Order button to view the current status of your shipment.</li>
+      </ol>
+      <p class="texto">If you encounter any issues, please visit our <a href="#" class="link">Help Center</a>.</p>
 
-      .author-info a {
-        text-decoration: none;
-      }
-    </style>
-  </head>
-  <body>
+      <hr>
 
-    
-    <!-- 
-    Frequently Asked Questions
-  
-    Browse through the most frequently asked questions
-  
-    How can I track my order?
-  
-    You can track your order using the following steps
-  
-    Go to the Order Tracking page.
-  
-    Enter your order number and email address.
-  
-    Click on the Track Order button to view the current status of your shipment.
-  
-    If you encounter any issues, please visit our Help Center.
-  
-    What is your return policy?
-  
-    We offer a 30-day return policy on most items. Here are some key points
-  
-    Items must be in original condition
-  
-    Unworn, unused, and unwashed.
-  
-    Include original packaging and tags
-  
-    All items should be returned with their original packaging and tags.
-  
-    Proof of purchase
-  
-    A receipt or proof of purchase is required.
-  
-    For more detailed information, read our full Return Policy.
-  
-  -->
+      <h2 class="subtitulo">What is your return policy?</h2>
+      <p class="texto">We offer a 30-day return policy on most items. Here are some key points:</p>
+      <ul>
+        <li>
+          <strong>Items must be in original condition</strong>
+          Unworn, unused, and unwashed.
+        </li>
+        <li>
+          <strong>Include original packaging and tags</strong>
+          All items should be returned with their original packaging and tags.
+        </li>
+        <li>
+          <strong>Proof of purchase</strong>
+          A receipt or proof of purchase is required.
+        </li>
+      </ul>
+      <p class="texto">For more detailed information, read our full <a href="#" class="link">Return Policy</a>.</p>
+    </section>
 
-    <div class="author-info">
-      Coded by <a href="#">Your Name Here</a> | Challenge by
-      <a href="https://www.devchallenges.io?ref=challenge" target="_blank"
-        >devChallenges.io</a
-      >.
-    </div>
-  </body>
+  </section>
+
+  <footer class="author-info">
+    Coded by <a href="#">Your Name Here</a> | Challenge by
+    <a href="https://www.devchallenges.io?ref=challenge" target="_blank">devChallenges.io</a>.
+  </footer>
+</body>
+
 </html>
